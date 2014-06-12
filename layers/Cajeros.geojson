@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Locacion": null, "Operador": "Credomatic" }, "geometry": { "type": "Point", "coordinates": [ -84.0691994, 9.903545 ] } },
+{ "type": "Feature", "properties": { "id": 2, "Locacion": null, "Operador": "BCR" }, "geometry": { "type": "Point", "coordinates": [ -84.0693422, 9.9029643 ] } },
+{ "type": "Feature", "properties": { "id": 3, "Locacion": null, "Operador": "Banco Nacional" }, "geometry": { "type": "Point", "coordinates": [ -84.0651408, 9.899605 ] } },
+{ "type": "Feature", "properties": { "id": 4, "Locacion": null, "Operador": "ATH" }, "geometry": { "type": "Point", "coordinates": [ -84.0662882, 9.8989455 ] } },
+{ "type": "Feature", "properties": { "id": 5, "Locacion": null, "Operador": "Bancredito" }, "geometry": { "type": "Point", "coordinates": [ -84.065146, 9.8986037 ] } },
+{ "type": "Feature", "properties": { "id": 6, "Locacion": null, "Operador": "BCR" }, "geometry": { "type": "Point", "coordinates": [ -84.0598453, 9.8962719 ] } }
+]
+}
