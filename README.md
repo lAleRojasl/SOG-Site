@@ -1,4 +1,4 @@
-lAleRojasl.github.io
+Proyecto Final - Sistemas de Información Geográfica
 ====================
 Acerca del proyecto
 Autor: Alejandro Rojas Jara
