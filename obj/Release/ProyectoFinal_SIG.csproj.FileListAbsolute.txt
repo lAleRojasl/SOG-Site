@@ -1,0 +1,5 @@
+C:\Users\Alejo\Documents\Visual Studio 2012\Projects\ProyectoFinal_SIG\bin\ProyectoFinal_SIG.dll
+C:\Users\Alejo\Documents\Visual Studio 2012\Projects\ProyectoFinal_SIG\bin\ProyectoFinal_SIG.pdb
+C:\Users\Alejo\Documents\Visual Studio 2012\Projects\ProyectoFinal_SIG\obj\Release\ProyectoFinal_SIG.csprojResolveAssemblyReference.cache
+C:\Users\Alejo\Documents\Visual Studio 2012\Projects\ProyectoFinal_SIG\obj\Release\ProyectoFinal_SIG.dll
+C:\Users\Alejo\Documents\Visual Studio 2012\Projects\ProyectoFinal_SIG\obj\Release\ProyectoFinal_SIG.pdb

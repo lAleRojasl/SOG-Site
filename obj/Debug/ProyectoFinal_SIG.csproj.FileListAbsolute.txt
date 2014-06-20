@@ -1,0 +1,5 @@
+c:\users\alejo\documents\visual studio 2012\Projects\ProyectoFinal_SIG\bin\ProyectoFinal_SIG.dll
+c:\users\alejo\documents\visual studio 2012\Projects\ProyectoFinal_SIG\bin\ProyectoFinal_SIG.pdb
+c:\users\alejo\documents\visual studio 2012\Projects\ProyectoFinal_SIG\obj\Debug\ProyectoFinal_SIG.csprojResolveAssemblyReference.cache
+c:\users\alejo\documents\visual studio 2012\Projects\ProyectoFinal_SIG\obj\Debug\ProyectoFinal_SIG.dll
+c:\users\alejo\documents\visual studio 2012\Projects\ProyectoFinal_SIG\obj\Debug\ProyectoFinal_SIG.pdb

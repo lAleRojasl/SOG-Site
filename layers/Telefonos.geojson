@@ -1,0 +1,14 @@
+var telefonos = [{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Nombre": "Telefono Publico", "Operador": "ICE" }, "geometry": { "type": "Point", "coordinates": [ -84.0636806, 9.900574 ] } },
+{ "type": "Feature", "properties": { "id": 2, "Nombre": "Telefono Publico", "Operador": "ICE" }, "geometry": { "type": "Point", "coordinates": [ -84.0677637, 9.9005822 ] } },
+{ "type": "Feature", "properties": { "id": 3, "Nombre": "Telefono Publico", "Operador": "ICE" }, "geometry": { "type": "Point", "coordinates": [ -84.0687745, 9.8986005 ] } },
+{ "type": "Feature", "properties": { "id": 4, "Nombre": "Torre Comunicacion", "Operador": "ICE" }, "geometry": { "type": "Point", "coordinates": [ -84.063, 9.897388 ] } },
+{ "type": "Feature", "properties": { "id": 5, "Nombre": "Telefono Publico", "Operador": "ICE" }, "geometry": { "type": "Point", "coordinates": [ -84.0553735, 9.9006658 ] } },
+{ "type": "Feature", "properties": { "id": 6, "Nombre": "Telefono Publico", "Operador": "ICE" }, "geometry": { "type": "Point", "coordinates": [ -84.0553875, 9.9006659 ] } },
+{ "type": "Feature", "properties": { "id": 7, "Nombre": "Telefono Publico", "Operador": "ICE" }, "geometry": { "type": "Point", "coordinates": [ -84.0534135, 9.9004407 ] } }
+]
+}]
